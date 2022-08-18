@@ -15,7 +15,7 @@ I'm **Sergei Papikian**, a student of the [Information Technologies and Programm
 
 ## 👇 &nbsp;Current work
 
-I'm currently working on [@Tweetormator](https://twitter.com/tweetormator). A self-hosted solution for tweet scheduling and analytics aimed at home labs. It will be free and open source.
+I'm currently working on [ITMO University](https://olymp.itmo.ru/). Platform for contests and olympiads. I am working on moving the monolith to a microservice architecture
 
 &nbsp;
 
