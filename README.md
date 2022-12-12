@@ -84,8 +84,8 @@ I'm currently working on [ITMO University](https://olymp.itmo.ru/). Platform for
 ## 🖥 &nbsp;Work on projects
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=I-SER-I&repo=Nard&theme=radical)](https://github.com/CyrisXD/Pwnagetty) &nbsp;  -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=I-SER-I&repo=BillNinja&theme=radical)](https://github.com/I-SER-I/BillNinja)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=I-SER-I&repo=Carolina&theme=radical)](https://github.com/I-SER-I/Carolina)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=I-SER-I&repo=BillNinja&theme=radical)](https://github.com/I-SER-I/BillNinja) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=I-SER-I&repo=Caroline&theme=radical)](https://github.com/I-SER-I/Caroline) 
 
 &nbsp;
 
