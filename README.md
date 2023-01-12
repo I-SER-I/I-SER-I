@@ -95,7 +95,7 @@ I'm currently working on [ITMO University](https://olymp.itmo.ru/). Platform for
 ![I-SER-I' Github Stats](https://github-readme-stats.vercel.app/api?username=I-SER-I&hide=issues,prs&show_icons=true&theme=radical)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-SER-I&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=I-SER-I&theme=radical)](https://git.io/streak-stats)
 
 [![I-SER-I's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=I_SER_I&layout=compact&langs_count=10&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
